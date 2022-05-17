@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<!--
-**tedyhabtegebrial/tedyhabtegebrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  
+<!-- <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=tedyhabtegebrial&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=tedyhabtegebrial&hide_border=true" />
+
+</p> -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
